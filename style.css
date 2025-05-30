@@ -2,13 +2,13 @@ body {
     font-family: Arial, sans-serif;
     margin:0;
     padding: 0;
-    background-color: #99c199;
+    background-color: #1fa84d49;
     color: rgba(15, 0, 0, 0.918);
 
 }
 
 header {
-    background-color: #b3d1b3;
+    background-color: #706a6a1e;
     color: rgba(0, 0, 0, 0.918);
     padding: 20px;
     text-align: center;
@@ -28,7 +28,7 @@ img {
 }
 
 footer {
-    background-color: #80b280;
+    background-color: #2aa76269;
     text-align: center;
     padding: 10px;
 }
